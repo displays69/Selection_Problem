@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\akart\source\repos\selection_problem\selection_problem\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Selection_problem.vcxproj -> C:\Users\akart\source\repos\Selection_problem\Debug\Selection_problem.exe
